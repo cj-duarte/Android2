@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Colores</string>
     <string name="red">Rojo</string>
+    <string name="app_name">colores</string>
     <string name="black">Negro</string>
     <string name="blue">Azul</string>
     <string name="green">Verde</string>
     <string name="white">Blanco</string>
     <string name="yellow">Amarillo</string>
     <string name="brown">Cafe</string>
-    <string name="semitransparent">Semitransparente</string>
+    <string name="semiTransparent">Semitransparente</string>
     <string name="transparent">Transparente</string>
-    <string name="magenta">Magenta</string>
     <string name="cyan">Cyan</string>
-    <string name="alpha">Alpha</string>
+    <string name="magenta">Magenta</string>
+    <string name="alpha">Alfa</string>
+    <string name="txt_code">Codigo: I043116</string>
+    <string name="txt_mail">e-mail: oscar.faini@gmail.com</string>
+    <string name="txt_name">Desarrollado por: Oscar Faini</string>
+    <string name="btn_contact">Regresar</string>
+    <string name="item7">Contactanos</string>
 </resources>
